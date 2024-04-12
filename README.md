@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Learning JAVA
+- 🔭 I’m currently working on Learning Java
 - 🌱 I’m currently learning Computer Science
-- 👯 I’m looking to collaborate on JAVA Projects
+- 👯 I’m looking to collaborate on Java Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: YuqingCui2001@gmail.com
