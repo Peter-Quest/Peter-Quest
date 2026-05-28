@@ -1,7 +1,12 @@
-# Hi 👋 I'm Yuqing Cui
+# Hi 👋 I'm Quest
 
 MSc in Computer Science @ HKU
 
-Interested in LLM Agents, AR, and Computer Vision.
+## Interests
+
+- Large Language Models (LLMs)
+- LLM-based Autonomous Agents
+- Tool-using & Reasoning with LLMs
+- Retrieval-Augmented Generation (RAG)
 
 📧 YuqingCui2001@gmail.com
