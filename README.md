@@ -1,12 +1,21 @@
-# Hi 👋 I'm Quest
+# Yuqing Cui
 
-MSc in Computer Science @ HKU  
-B.Eng. @ Beijing University of Posts and Telecommunications (BUPT)
+I am a graduate student at The University of Hong Kong. My research interests focus on AI for Software Engineering, including intelligent developer tools, automated program analysis, and AI-assisted software development.
 
-## Interests
+- Affiliation: The University of Hong Kong
+- Previous Education: Beijing University of Posts and Telecommunications
+- Email: yuqingcui@connect.hku.hk
+- GitHub: https://github.com/Peter-Quest
 
-- Large Language Models (LLMs)
-- LLM-based Autonomous Agents
-- Agent Evaluation & Benchmarking
+## Research Interests
 
-📧 YuqingCui2001@gmail.com
+- AI for Software Engineering
+- Intelligent Developer Tools
+- AI-Assisted Software Development
+- Automated Program Analysis
+
+## Publication
+
+Tienong Zhang, Yuqing Cui, Wei Fang.  
+*Integrative human and object aware online progress observation for human-centric augmented reality assembly.*  
+Advanced Engineering Informatics, 2025.
